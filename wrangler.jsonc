@@ -13,7 +13,10 @@
 		"ADMIN_PASSWORD": "changeme",
 		"SITE_TITLE": "",
 		"SITE_ANNOUNCEMENT": "",
-		"CHUNK_SIZE_MB": "10"
+		"CHUNK_SIZE_MB": "10",
+		"WEBDAV_ENABLED": "false",
+		"WEBDAV_USERNAME": "",
+		"WEBDAV_PASSWORD": ""
 	},
 	"observability": {
 		"enabled": true
