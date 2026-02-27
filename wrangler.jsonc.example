@@ -14,7 +14,7 @@
     "SITE_TITLE": "CList",
     "SITE_ANNOUNCEMENT": "Welcome to CList storage service!",
     "CHUNK_SIZE_MB": "10",
-    "WEBDAV_ENABLED": "false",
+    "WEBDAV_ENABLED": "true",
     "WEBDAV_USERNAME": "webdav",
     "WEBDAV_PASSWORD": "changeme"
   },
@@ -22,7 +22,7 @@
     {
       "binding": "DB",
       "database_name": "clist",
-      "database_id": "00000000-0000-0000-0000-000000000000"
+      "database_id": "a15a1dd2-d396-45c9-bd2c-1f1352e2961c"
     }
   ]
 }
