@@ -1,6 +1,7 @@
 /**
  * Example Wrangler config used for CI type generation.
  * Replace with real values in actual deployment config.
+
  */
 {
   "$schema": "node_modules/wrangler/config-schema.json",
