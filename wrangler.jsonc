@@ -8,6 +8,7 @@
   "name": "clist",
   "main": "./workers/app.ts",
   "compatibility_date": "2025-04-04",
+  "keep_vars": true,
   "vars": {
     "VALUE_FROM_CLOUDFLARE": "Hello from Cloudflare",
     "ADMIN_USERNAME": "admin",
